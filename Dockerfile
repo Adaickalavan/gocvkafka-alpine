@@ -1,4 +1,5 @@
-FROM denismakogon/gocv-alpine:ongoing-buildstage
+# FROM denismakogon/gocv-alpine:4.0.1-buildstage
+FROM adaickalavan/gocv-alpine
 
 #Author label
 LABEL Author Adaickalavan Meiyappan
